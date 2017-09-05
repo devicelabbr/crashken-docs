@@ -1,3 +1,7 @@
-# Table of content
+# Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* [API](chapter1.md)
+  * [Appium](chapter1/nodejs.md)
+  * [Extended API](chapter1/extended-api.md)
+
